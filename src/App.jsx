@@ -6,6 +6,7 @@ import Deals from "./Components/Deals";
 import Slaider from "./Components/Slaider";
 import Products from "./Components/Products";
 import Banner from "./Components/Banner";
+import Computer from "./Components/Computer";
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <Slaider/>
       <Products/>
       <Banner/>
+      <Computer/>
     </div>
   );
 };
